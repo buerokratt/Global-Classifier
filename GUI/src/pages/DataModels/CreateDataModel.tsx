@@ -110,6 +110,7 @@ const CreateDataModel: FC = () => {
   const isCreateDisabled = () => {
     return (
       !dataModel.modelName ||
+      dataModel.modelName.length > 256 ||
       !dataModel.datasetId ||
       !dataModel.baseModels ||
       (Array.isArray(dataModel.baseModels) && dataModel.baseModels.length === 0) ||
