@@ -76,7 +76,7 @@ dnspython==2.6.1
 email-validator==2.2.0
 
 # Template and markup
-Jinja2==3.1.4
+Jinja2==3.1.6
 MarkupSafe==2.1.5
 markdown-it-py==3.0.0
 mdurl==0.1.2
