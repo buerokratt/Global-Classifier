@@ -38,7 +38,7 @@ python-dotenv==1.0.1
 python-multipart==0.0.9
 PyYAML==6.0.1
 regex==2024.7.24
-requests==2.32.3
+requests==2.32.4
 rich==13.7.1
 safetensors==0.4.3
 sentencepiece==0.2.0
@@ -59,7 +59,7 @@ uvicorn==0.30.5
 watchfiles==0.22.0
 websockets==12.0
 loguru==0.7.2
-requests==2.32.3
+requests==2.32.4
 scipy==1.11.3
 matplotlib==3.7.2
 seaborn==0.12.2
